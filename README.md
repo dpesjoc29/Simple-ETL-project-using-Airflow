@@ -11,19 +11,6 @@ Before getting started, make sure you have the following prerequisites installed
 - [WSL 2](https://docs.microsoft.com/en-us/windows/wsl/install)
 - [Apache Airflow](https://airflow.apache.org/docs/apache-airflow/stable/installation.html)
 
-## Project Structure
-
-/etl_project
-├── dags
-│ ├── main_etl_dag.py # Main Airflow DAG file
-│ └── ...
-├── config
-│ ├── airflow.cfg # Airflow configuration file
-│ └── ...
-├── requirements.txt # Python dependencies
-└── README.md # Project documentation
-
-
 
 ## Getting Started
 
