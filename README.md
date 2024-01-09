@@ -17,7 +17,7 @@ Before getting started, make sure you have the following prerequisites installed
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/your-username/etl_project.git
+   git clone https://github.com/dpesjoc29/Simple-ETL-project-using-Airflow.git
    
 2. Install Python dependencies:
 
