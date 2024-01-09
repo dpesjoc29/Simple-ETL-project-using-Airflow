@@ -35,7 +35,5 @@ Access the Airflow web UI at http://localhost:8080 to monitor and trigger the DA
 
 
 
-Feel free to modify the template according to your project's specific details and requirements. Add more sections as needed, such as data source details, transformation logic, or any other relevant information.
-
 
 
